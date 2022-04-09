@@ -5,4 +5,5 @@ body {
 a {
   text-decoration: underline;
   color: #2F97C6;
+  word-wrap: break-word;
 }
